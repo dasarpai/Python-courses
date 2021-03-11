@@ -1,0 +1,2 @@
+Learn Advanced Data Visualization with Python 3, NumPy, Jupyter, Matplotlib, Pandas, Seaborn, and Bokeh
+https://www.udemy.com/complete-python-3-advanced-data-visualization-masterclass/learn/lecture/13178420#overview
